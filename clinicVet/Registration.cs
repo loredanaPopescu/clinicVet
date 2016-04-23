@@ -74,5 +74,18 @@ namespace clinicVet
 
             }
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog OpenFd = new OpenFileDialog();
+            OpenFd.Filter = "Images only. |*.jpg; *.jpeg; *.png; *.gif";
+            DialogResult dr = OpenFd.ShowDialog();
+            pictureBox2.Image = Image.FromFile(OpenFd.FileName);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
