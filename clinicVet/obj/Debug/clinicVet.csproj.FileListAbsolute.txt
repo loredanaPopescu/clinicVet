@@ -1,1 +1,10 @@
 C:\Users\test2\Desktop\clinicVet\clinicVet\bin\Debug\clinicVet.exe.config
+C:\Users\test2\Desktop\clinicVet\clinicVet\bin\Debug\clinicVet.exe
+C:\Users\test2\Desktop\clinicVet\clinicVet\bin\Debug\clinicVet.pdb
+C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.csprojResolveAssemblyReference.cache
+C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.Login.resources
+C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.Properties.Resources.resources
+C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.csproj.GenerateResource.Cache
+C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.exe
+C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.pdb
+C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.Registration.resources
