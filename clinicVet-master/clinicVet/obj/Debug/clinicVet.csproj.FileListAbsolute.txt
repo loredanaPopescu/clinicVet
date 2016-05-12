@@ -8,15 +8,13 @@ C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.csproj.GenerateRe
 C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.exe
 C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.pdb
 C:\Users\test2\Desktop\clinicVet\clinicVet\obj\Debug\clinicVet.Registration.resources
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\bin\Debug\clinicVet.exe.config
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.exe
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.pdb
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\bin\Debug\clinicVet.exe
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\bin\Debug\clinicVet.pdb
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.csprojResolveAssemblyReference.cache
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Home.resources
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Login.resources
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.btnAddPr.resources
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Properties.Resources.resources
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Registration.resources
-C:\Users\Irina - PC\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.csproj.GenerateResource.Cache
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\bin\Debug\clinicVet.exe.config
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.exe
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.pdb
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.csprojResolveAssemblyReference.cache
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Login.resources
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.grpConsultatii.resources
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Properties.Resources.resources
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Registration.resources
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.Tratament.resources
+C:\Users\Irina\Desktop\clinicVet-master\clinicVet\obj\Debug\clinicVet.csproj.GenerateResource.Cache
